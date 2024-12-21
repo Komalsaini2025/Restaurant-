@@ -42,7 +42,7 @@
         <div class="about-wrapper container">
             <div class="about-text">
                 <p class="small">About Us</p>
-                <h2>We've beem making healthy food last for 10 years</h2>
+                <h2>We've been making healthy food last for 10 years</h2>
                 <p>
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Esse ab
                     eos omnis, nobis dignissimos perferendis et officia architecto,
